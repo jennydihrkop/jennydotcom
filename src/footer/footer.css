@@ -1,0 +1,19 @@
+.footerDiv {
+    position: relative;
+}
+
+.footerLinks{
+    display: inline-block;
+    justify-content: center;
+}
+
+.footerLinks li {
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+}
+
+a{
+    color:lightslategrey;
+    text-decoration: none;
+}
