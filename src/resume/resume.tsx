@@ -44,7 +44,6 @@ const Resume = () => {
                 />
                 <div className="contact-info">
                     <span><FontAwesomeIcon icon={faEnvelope} color="#61dafb"/> : jennydihrkop@gmail.com</span>
-                    <span><FontAwesomeIcon icon={faPhone} color="#61dafb"/> : (614)329-4635</span>
                     <span><a href="https://www.linkedin.com/in/jennydihrkop/"><FontAwesomeIcon icon={faLinkedin} color="#61dafb" size="lg"/></a></span>
                 </div>
                 <div className="container">
